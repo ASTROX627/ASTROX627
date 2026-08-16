@@ -39,4 +39,4 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,css,html,pnpm,npm,nodejs,express,redis,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,css,html,pnpm,npm,nodejs,express,redis,prisma,py)](https://skillicons.dev)
