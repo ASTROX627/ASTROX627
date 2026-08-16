@@ -1,4 +1,5 @@
 # Hi 👋 I'm Alireza
+Master's Student in Computer Engineering
 
 ## 🛠️ Tech Stack
 
