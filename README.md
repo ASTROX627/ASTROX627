@@ -36,7 +36,7 @@ Master's Student in Computer Engineering
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ASTROX627&show_icons=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASTROX627&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASTROX627&layout=compact&theme=tokyonight)
 
 ## My Skills
 
