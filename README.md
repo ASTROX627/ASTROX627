@@ -43,5 +43,17 @@ Master's Student in Computer Engineering
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,css,html,pnpm,npm,nodejs,express,redis,prisma,py)](https://skillicons.dev)
 
 ## 🐍 Contribution Snake
-
-![snake animation](https://raw.githubusercontent.com/ASTROX627/ASTROX627/output/github-contribution-grid-snake.svg?v=2)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ASTROX627/ASTROX627/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ASTROX627/ASTROX627/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ASTROX627/ASTROX627/output/github-contribution-grid-snake.svg"
+  />
+</picture>
